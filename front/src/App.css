@@ -18,10 +18,9 @@ button:hover{
 }
 
 .btn-send-NFT-rewards{
-
   position:absolute;
   z-index: 10;
-  left: 173px;
+  left: 100px;
   top: 40px;
 }
 
